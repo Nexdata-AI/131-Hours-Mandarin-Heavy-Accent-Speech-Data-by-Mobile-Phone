@@ -1,8 +1,10 @@
 # 131-Hours-Mandarin-Heavy-Accent-Speech-Data-by-Mobile-Phone
-https://www.datatang.ai/datasets/45
+
 
 ## Description
 It collects 2,568 local Chinese from Henan, Shanxi, Sichuan, Hunan and Fujian. It is mandarin speech data with heavy accent. The recorded content is a sentence that the speaker freely answers according to the guiding questions.
+
+For more details, please refer to the link: https://bit.ly/3C99RwF
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel.
@@ -27,3 +29,6 @@ speech recognition; voiceprint recognition
 
 ## Accuracy
 not lower than 98%.
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
