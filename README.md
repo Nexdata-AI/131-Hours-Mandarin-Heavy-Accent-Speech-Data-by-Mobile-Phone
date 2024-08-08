@@ -4,7 +4,7 @@
 ## Description
 It collects 2,568 local Chinese from Henan, Shanxi, Sichuan, Hunan and Fujian. It is mandarin speech data with heavy accent. The recorded content is a sentence that the speaker freely answers according to the guiding questions.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/45?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/45?source=Github
 
 
 ## Format
